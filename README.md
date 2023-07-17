@@ -7,4 +7,6 @@ To use musicstream download both the support.scpt and the musicstream.sh files a
 
 This will start saving the stream. 
 # IMPORTANT
-When you wish to stop the save stream, type Control+C (press C while holding down the control key). If you simply close the window, it will not save properly. The list will be in the musicstream folder.
+When you wish to stop the save stream, type Control+C (press C while holding down the control key). If you simply close the window, it will not save properly. If you *do* turn it off by accident, run the script again and exit with Control+C.
+
+The saved list will be in the musicstream folder.
